@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 this is gi
 this
-=======
-this is gi
-this 
->>>>>>> branch1
