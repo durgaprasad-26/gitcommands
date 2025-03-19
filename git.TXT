@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 this is g
 this also gi
+=======
+this is gi
+this 
+>>>>>>> branch1
