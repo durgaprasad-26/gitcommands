@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-creating bsdfkranch sdfsd	
-=======
-creating bsdfkranch sdfsd	
->>>>>>> newbranch
+this is git
+this also git
